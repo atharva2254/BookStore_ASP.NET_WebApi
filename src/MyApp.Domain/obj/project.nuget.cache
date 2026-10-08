@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "INkLZYCoYKU=",
+  "success": true,
+  "projectFilePath": "D:\\D Documents\\Clean Architectural Patterns\\MyApp\\src\\MyApp.Domain\\MyApp.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Atharva\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.12\\microsoft.extensions.dependencyinjection.abstractions.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
